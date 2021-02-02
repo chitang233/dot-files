@@ -1,0 +1,31 @@
+{
+	"name": "Vimium C",
+	"@time": "2021/2/2下午2:10:57",
+	"time": 1612246257922,
+	"environment": {
+		"extension": "1.86.2",
+		"platform": "linux",
+		"chrome": 88
+	},
+	"keyMappings": [
+		"map u scrollUp",
+		"map e scrollDown",
+		"map n scrollLeft",
+		"map i scrollRight",
+		"map E scrollPageDown",
+		"map U scrollPageUp",
+		"map to scrollToTop",
+		"map bo scrollToBottom",
+		"map B goBack",
+		"map L goForward",
+		""
+	],
+	"searchEngines": [
+		"g|go|gg|google: https://www.google.com/search?q=%s Google",
+		"y|yt|youtuber: https://www.youtube.com/results?search_query=%s YouTube",
+		"b|bili|bilibili: https://search.bilibili.com/all?keyword=%s",
+		"d|doge|dogedoge: https://www.dogedoge.com/results?%s",
+		""
+	],
+	"searchUrl": "https://www.dogedoge.com/results?q=$s Doge"
+}
