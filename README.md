@@ -2,6 +2,8 @@
 
 Github repo are [HERE](https://github.com/chitang233/dot-files)
 
+Gitee repo are [HERE](https://gitee.com/chitang233/dot-files)
+
 - [My Arch Linux config](#my-arch-linux-config)
 	* [zsh](#zsh)
 		+ [效果预览](#zsh-效果预览 )
