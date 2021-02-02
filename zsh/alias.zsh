@@ -1,6 +1,6 @@
 alias c='clear'
 alias sudo='sudo -E'
-alias n='neofetch'
+alias s='neofetch'
 alias ga='git add'
 alias gc='git commit -S'
 alias ra='ranger'
